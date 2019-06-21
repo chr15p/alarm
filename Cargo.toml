@@ -1,0 +1,9 @@
+[package]
+name = "alarm"
+version = "0.1.0"
+authors = ["chrisp <chris@chrisprocter.co.uk>"]
+edition = "2018"
+
+[dependencies]
+getopts = "0.2.19"
+nix = "0.14.1"
