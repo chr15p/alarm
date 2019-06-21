@@ -8,10 +8,12 @@ The utility forks off a process that sits in the background and then, after a gi
 to compile the c version:
 ```
 gcc alarm.c -o alarm
+```
 
 
 to build the rust version
-
+```
 rust build
+```
 
 use -h to get the full set of options for each version (they are slightly different)
